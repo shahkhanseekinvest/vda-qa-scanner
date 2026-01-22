@@ -20,3 +20,9 @@ venv/
 *.log
 *.tmp
 *.swp
+
+# Test fixtures (generated)
+tests/fixtures/
+
+# Scan results
+vdr_qa_results.csv
