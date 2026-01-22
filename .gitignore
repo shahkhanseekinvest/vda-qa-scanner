@@ -21,8 +21,8 @@ venv/
 *.tmp
 *.swp
 
-# Test fixtures (generated)
-tests/fixtures/
+# Test fixtures - keep sample files for easy testing
+# tests/fixtures/  # Commented out - we want to include sample test data
 
 # Scan results
 vdr_qa_results.csv

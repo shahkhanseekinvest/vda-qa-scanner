@@ -1,0 +1,11 @@
+This is a test document.
+
+Acme Corporation is mentioned here.
+Contact John Smith for more information.
+Phone: (555) 123-4567
+
+This file also contains Confidential information.
+
+Some terms that should match via priority prefix:
+- SpiritAirlines (should match 'spirit' prefix)
+- AcmeCorp (should NOT match 'Acme Corporation' - different token)
